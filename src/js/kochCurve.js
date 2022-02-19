@@ -36,7 +36,6 @@ function draw() {
 
     line(cData[cData.length-1][0], -1*cData[cData.length-1][1], cData[0][0], -1*cData[0][1]);
 
-
 }
 
 function getCurvePoints(){
